@@ -1,0 +1,10 @@
+name: ShockLife
+version: 1.0
+main: com.shocklife.ShockLife
+api-version: "1.21"
+author: YourName
+description: "Shock-based life system with speed boosts and dash!"
+commands:
+  shock:
+    description: "Check your current shock level"
+    usage: "/shock"
